@@ -2,7 +2,7 @@
 
 ## Bash
 
-* [Completion for command aliases](bash/README.complete.md)
+* [Completion for command aliases](bash/soft/complete.md)
 
 ## Cheatsheet
 
