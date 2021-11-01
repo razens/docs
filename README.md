@@ -7,3 +7,4 @@
 ## Cheatsheet
 
 * [Tmux](cheatsheet/tmux.md)
+* [Vim](cheatsheet/vim.md)

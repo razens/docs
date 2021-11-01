@@ -1,5 +1,10 @@
 # tmux shortcuts & cheatsheet
 
+https://github.com/gpakosz/.tmux
+
+[.tmux.conf](../configs/tmux/.tmux.conf)
+[.tmux.conf.local](../configs/tmux/.tmux.conf.local)
+
 start new:
 
     tmux
