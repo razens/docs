@@ -1,3 +1,5 @@
+# Vim
+
 ## Cursor movement
 
 * h - move left
@@ -75,14 +77,14 @@
 * dw - delete (cut) the current word
 * x - delete (cut) current character
 
-##Exiting
+## Exiting
 
 * :w - write (save) the file, but don't exit
 * :wq - write (save) and quit
 * :q - quit (fails if anything has changed)
 * :q! - quit and throw away changes
 
-##Search/Replace
+## Search/Replace
 
 * /pattern - search for pattern
 * ?pattern - search backward for pattern
@@ -103,4 +105,4 @@
 * ctrl+wq - Quit a window
 * ctrl+wv - Split windows vertically
 
-*[Another good vim commands cheatsheet and a vi introduction using the "cheat sheet" method](http://www.worldtimzone.com/res/vi.html)*
+* [Another good vim commands cheatsheet and a vi introduction using the "cheat sheet" method](http://www.worldtimzone.com/res/vi.html)*
