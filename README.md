@@ -15,4 +15,4 @@
 
 ## Python
 
-* [One raw contructions](one_raw.py)
+* [One raw contructions](python/one_raw.py)
