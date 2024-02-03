@@ -1,11 +1,11 @@
 # Completion for alias
 
-## installation
+## Installation
 
     mkdir ~/.bash_completion.d
     curl https://raw.githubusercontent.com/cykerway/complete-alias/master/complete_alias ~/.bash_completion.d/complete_alias
 
-## application
+## Application
 
     source ~/.bash_completion.d/complete_alias
 
@@ -13,8 +13,8 @@
     complete -F _complete_alias container
     container can now be autocompleted by the original _docker() completion handler;
 
-    $ container l<Tab>
-    logs  ls    
+    $ container l`<Tab>`
+    logs  ls
 
-    $ container s<Tab>
+    $ container s`<Tab>`
     start  stats  stop
