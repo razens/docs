@@ -1,19 +1,53 @@
 # Andrey Arambitsky
 
+---
+
 ## Personal info
 
-![avatar](img/profileavatar.jpeg){ width=20% }
+<style>
+    .container {
+        display: flex;
+        align-items: center;
+    }
+    .picture {
+        flex: 5;
+        margin-right: 20px;
+    }
+    .text {
+        flex: 17;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+</style>
+
+<div class="container">
+  <div class="picture">
+
+  ![avatar](img/profileavatar.jpeg)
+  </div>
+  <div class="text" align="left">
 
 > :information_desk_person: 11/05/1986
-> :telephone_receiver: +972527252378 | :email: <andrey.arambitsky@gmail.com>
+>
+> :telephone_receiver: +972527252378
+>
+> :email: <andrey.arambitsky@gmail.com>
+>
 > :link: <https://www.linkedin.com/in/andrey-arambitsky-317a5b58/>
+
+  </div>
+</div>
 
 ---
 
 ## Profile
 
-As a seasoned software developer with over 10 years of expertise, I possess a diverse skill set encompassing software development, validation, DevOps, and continuous integration. I have a proven track record of success as a product owner, guiding cross-functional teams with a strategic mindset and leveraging Scrum methodologies to deliver impactful solutions. Additionally, my proficiency extends to on-premise cloud systems, including extensive experience with Docker Swarm and Kubernetes. This expertise has enabled me to architect and optimize scalable and reliable infrastructure, contributing to the seamless deployment and management of complex applications. Proficient in web framework development, validation, delivery, and high availability strategies I am eager to apply my comprehensive skills to software development, driving innovation and efficiency in software development projects.
-
+As a seasoned software developer with over 10 years of expertise, I possess a diverse skill set encompassing software development, validation, DevOps, and continuous integration.
+I have a proven track record of success as a product owner, guiding cross-functional teams with a strategic mindset and leveraging Scrum methodologies to deliver impactful solutions. Additionally, my proficiency extends to on-premise cloud systems, including extensive experience with Docker Swarm and Kubernetes.
+This expertise has enabled me to architect and optimize scalable and reliable infrastructure, contributing to the seamless deployment and management of complex applications.
+Proficient in web framework development, validation, delivery, and high availability strategies I am eager to apply my comprehensive skills to software development, driving innovation and efficiency in software development projects.
 I am characterized by a rapid learning ability, a genuine enthusiasm for technology, and a collaborative team-player approach
 
 ---
