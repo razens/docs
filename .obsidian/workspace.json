@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "61c8c41d99324bc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f8fb4448c58370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b587469b5da56d34",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "cheatsheet/img/httpstatuses.jpeg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c14a9daf1dcd5597",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e2dae3ecb15c24b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb23e1ee8b7684f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc6a7fe49f41cf7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bd7c95bf20d2f2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb2237db172dde75",
+    "type": "split",
+    "children": [
+      {
+        "id": "632842935373a1fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e62ffe4bdd0f12e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cheatsheet/img/httpstatuses.jpeg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "043b332be7386475",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cheatsheet/img/httpstatuses.jpeg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbae701d444cfd4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b09688d4654d0f4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cheatsheet/img/httpstatuses.jpeg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b587469b5da56d34",
+  "lastOpenFiles": [
+    "index.html",
+    "index.htlm",
+    "cheatsheet/img/gitworkflow.gif",
+    "cheatsheet/img/gitworkflowv2.gif",
+    "cheatsheet/img/pythonroadmap.gif",
+    "cheatsheet/images.md",
+    "cheatsheet/img/typesofapitesting.gif",
+    "cheatsheet/tmux.md",
+    "cheatsheet/img/ultimateaitools.jpeg",
+    "cheatsheet/img/apiarchitechturestyles.gif",
+    "README.md",
+    "bash/soft/complete.md"
+  ]
+}
